@@ -1,7 +1,33 @@
-# TRIGGER
 
-    Our app will help you! the"TRIGGER"will send whatever you need ... whoever you want ... when you need ...
-    
+
+
+
+
+# Hackaton Project TRIGGER
+https://react-trigger.netlify.app/
+      
+![trigger logo](src/components/assets/trigger2.png)   
+
+
+
+you know that you can be offline, but you should definitely send a message ... send an important letter or something valuable to friends, colleagues, family
+####  App "TRIGGER" will help you! 
+we send any message ... to any person you choose ...any moment of time you need it ...
+
+
+## Contributors
+Students WildCodeSchool  for Twillio Hackaton
+
+| Name                  | GitHub                          |
+| --------------------- | ------------------------------- |
+| Natalia Lapitskaya    | https://github.com/LapitskayaN  |
+| Vadim Karulin         | https://github.com/Zolotou      |
+| Artur Zaleuski        | https://github.com/zalart       |
+| Alexey Fokin          | https://github.com/FokinAlexey  |
+
+
+
+
 
 
 
